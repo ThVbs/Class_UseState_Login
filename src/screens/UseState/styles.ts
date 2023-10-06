@@ -51,5 +51,21 @@ export const styles = StyleSheet.create({
         color: "#fff",
         fontSize: 10,
         width: '60%',
-    }
+    },
+    itemContainer: {
+
+        backgroundColor: '#78787c',
+        borderRadius: 5,
+        width: '60%',
+        margin: 10,
+        padding: 30,
+
+    },
+
+    itemText: {
+        color: '#000',
+        fontSize: 14,
+        fontWeight: '200',
+    },
+
 });
